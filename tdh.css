@@ -74,6 +74,8 @@ input[type=range]{
 
 .row{
     border-radius: 50px;
+    background-image: url(./kepek/fatyol.png);
+    padding: 20px;
 }
 
 q{
